@@ -1,4 +1,4 @@
-### I can center a div (optional)
+### can center a div (optional)
 
 <!--
 **HrijulChauhan/HrijulChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
